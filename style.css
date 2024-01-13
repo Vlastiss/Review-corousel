@@ -1,0 +1,18 @@
+.page-container {
+    width: 100%;
+    background-color: rgba(208, 208, 208, 0.873);
+    height: 100vh;
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.divider {
+    border: 1px solid #1121ffdd;
+    width: 15%;
+    margin: 0 auto 70px;
+    padding: 3px;
+    background-color: #1121ffdd;
+    border-radius: 5px;
+}
